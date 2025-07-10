@@ -1,8 +1,8 @@
 import pyautogui
 import time
 
-print("You have 5 seconds to place the cursor where you want typing to begin...")
-time.sleep(5)
+print("You have 10 seconds to place the cursor where you want typing to begin...")
+time.sleep(10)
 
 lines_to_type = [
     "CORPADMIN",
