@@ -8,7 +8,7 @@ lines_to_type = [
     "CORPADMIN",
     "NetSec-Admin1",
     "enable",
-    "Password: RTR-AdminP@55",
+    "RTR-AdminP@55",
     "conf ter",
 
     "access-list 120 permit ip 198.133.219.32 0.0.0.31 209.165.200.240 0.0.0.15",
