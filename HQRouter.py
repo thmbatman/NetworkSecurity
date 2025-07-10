@@ -5,8 +5,8 @@ print("You have 10 seconds to place the cursor where you want typing to begin...
 time.sleep(10)
 
 lines_to_type = [
-    # "CORPADMIN",
-    # "NetSec-Admin1",
+    "CORPADMIN",
+    "NetSec-Admin1",
     "enable",
     "RTR-AdminP@55",
     "conf ter",
